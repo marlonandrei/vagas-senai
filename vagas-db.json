@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Analista de sistemas",
+      "foto": "foto1.jpg",
+      "descricao": "Planejar sistemas",
+      "salario": 6000
+    },
+    {
+      "id": 2,
+      "nome": "Database Administrator",
+      "foto": "foto2.jpg",
+      "descricao": "Gerenciar banco de dados",
+      "salario": 7200
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolver Java Senior",
+      "foto": "foto3.jpg",
+      "descricao": "Desenvolver aplicações java",
+      "salario": 9000
+    }
+  ]
+}
